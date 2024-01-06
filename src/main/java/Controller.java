@@ -3,6 +3,10 @@ public class Controller {
         System.out.println("控制器");
         System.out.println("控制器");
         System.out.println("控制器");
+        System.out.println("控制器");
+        System.out.println("控制器");
+        System.out.println("控制器");
+        System.out.println("控制器");
     }
 }
 
